@@ -420,6 +420,10 @@ p {
 	background-image: url("../img/Turningred_demo.png");
 }
 
+.background-8 {
+	background-image: url("../img/EverythingEverywhereAllatonce_demo.png");
+}
+
 .just {
 	text-align:justify;
 	text-justify:inter-word;
@@ -441,11 +445,11 @@ p {
     padding: 5px;
     margin: 0px auto;
     text-align: center;
-    height:40px;
+	height:40px;
 }
 
 .content img {
-    height:28px;
+ 	height:28px;
     width: 28px;
 }
 
