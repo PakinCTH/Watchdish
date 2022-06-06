@@ -424,6 +424,10 @@ p {
 	background-image: url("../img/EverythingEverywhereAllatonce_demo.png");
 }
 
+.background-9 {
+	background-image: url("../img/AfterYang_demo.png");
+}
+
 .just {
 	text-align:justify;
 	text-justify:inter-word;
